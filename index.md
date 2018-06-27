@@ -1,4 +1,11 @@
 
+---
+scss:
+ a{text-decoration: none;} 
+ a:hover{text-decoration: underline;}
+ .current-section p{ padding: 0px 14px;font-size: 14px;font-weight: bold;}
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xelectronics/555timer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
