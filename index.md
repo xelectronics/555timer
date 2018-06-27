@@ -1,4 +1,4 @@
-(setq markdown-css-paths '("http://mydomain.com/style.css"))
+(setq markdown-css-paths '("https://raw.githubusercontent.com/xelectronics/555timer/master/style.css"))
 
 
 ## Welcome to GitHub Pages
