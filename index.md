@@ -1,10 +1,5 @@
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-  a{text-decoration: none;} 
-  a:hover{text-decoration: underline;}
-  .current-section p{ padding: 0px 14px;
-  font-size: 14px;font-weight: bold;}
-</style>")
+(setq markdown-css-paths '("http://mydomain.com/style.css"))
+
 
 ## Welcome to GitHub Pages
 
