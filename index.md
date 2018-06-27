@@ -1,4 +1,3 @@
-<link href="https://raw.githubusercontent.com/xelectronics/555timer/master/style.css" rel="stylesheet"></link>
 
 ## Welcome to GitHub Pages
 
